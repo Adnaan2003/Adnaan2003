@@ -1,90 +1,64 @@
-<h1 align="center">Hi, I'm Adnaan Faiz 👋</h1>
+<h1 align="center">Hi, I'm adnaan faiz 👋</h1>
 
-<p align="center"><strong>MLOps & Deep Learning Engineer</strong> | Based in kurnool,India</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> | Based in kurnool</p>
 
-<p align="center"><em>Training large-scale deep learning models and building robust model serving infrastructure.</em></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnaan2003&label=Profile%20views&color=0e75b6&style=flat" alt="Adnaan Faiz's visitor count" />
-</p>
+<p align="center"><em>Building scalable web applications, REST/GraphQL APIs, and cloud-native services.</em></p>
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elena-ml)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-rostova-ml)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rostova-ml.de)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elena@rostova-ml.de)
+  <img src="https://komarev.com/ghpvc/?username=Adnaan2003&label=Profile%20views&color=0e75b6&style=flat" alt="adnaan faiz's visitor count" />
 </p>
 
 ---
 
 ## 📖 About Me
 
-Machine Learning Engineer focused on neural network architecture, reinforcement learning, and productionizing models (MLOps).
+Full stack engineer with 8+ years of experience leading product development. I specialize in React, Node.js, and cloud architecture.
 
-- 🎯 **Goals**: Optimizing LLM inference latency via quantization and speculative decoding.
-- 🔍 **Interests**: TensorRT compiler, Edge AI devices, and CUDA kernels.
-- ⚡ **Open Source**: Contributor to PyTorch core and Hugging Face transformers libraries.
+- 🎯 **Goals**: Architecting high-performance systems and developer tooling.
+- 🔍 **Interests**: System design, open-source contribution, and micro-frontends.
+- ⚡ **Open Source**: Core maintainer of several popular NPM utility libraries.
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="left">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adnaan2003&theme=onelight&column=7" alt="github trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Adnaan2003&theme=dark&column=7" alt="github trophies" />
   </a>
 </p>
 
 <table align="center"><tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnaan2003&show_icons=true&theme=onelight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnaan2003&show_icons=true&theme=dark" alt="GitHub Stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan2003&layout=compact&theme=onelight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan2003&layout=compact&theme=dark" alt="Top Languages" />
 </td>
 </tr><tr>
 <td>
-  <img src="https://streak-stats.demolab.com/?user=Adnaan2003&theme=onelight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Adnaan2003&theme=dark" alt="Streak Stats" />
 </td>
 <td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnaan2003&theme=onelight&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnaan2003&theme=dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </td>
 </tr></table>
 
 ## 🏆 Achievements & Certifications
 
-- **Best AI Paper Nominee** – Co-authored a paper on lightweight vision transformers for edge devices.
+- **AWS Solutions Architect** – Certified in design and implementation of highly available systems.
+- **Tech Speaker** – Presented at JSConf on React Server Components performance.
 
-## 🤖 AI Belief
+## ⚡ Tech Philosophy
 
-Models should be useful, transparent, and robust. Building AI is a system engineering challenge.
+Simplicity is a prerequisite for reliability. Write clean, tested code that solves real business problems.
 
-### 🌐 Technology Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-NextJS-6366F1?style=flat-square&logo=nextjs&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/-GraphQL-6366F1?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/-Postgres-6366F1?style=flat-square&logo=postgres&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/-Redis-6366F1?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Kubernetes-6366F1?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&width=600&lines=Hi%2C%20I'm%20a%20Developer" alt="Typing SVG" />
+  <p><strong>Building modern web apps</strong></p>
+  <p><em>Welcome to my GitHub profile!</em></p>
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80" style="max-width:100%; border-radius:12px; border: 1px solid rgba(255,255,255,0.1); margin-top:10px;" alt="Banner Decor" />
+</div>
 
