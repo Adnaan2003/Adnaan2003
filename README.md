@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adnaan Faiz 👋</h1>
 
-<p align="center"><strong>Principal Full Stack Engineer</strong> | Based in kurnool</p>
+<p align="center"><strong>Principal Full Stack Engineer</strong> | Based in Kurnool</p>
 
 <p align="center"><em>Building scalable web applications, REST/GraphQL APIs, and cloud-native services.</em></p>
 
@@ -54,4 +54,10 @@ Full stack engineer with 8+ years of experience leading product development. I s
 ## ⚡ Tech Philosophy
 
 Simplicity is a prerequisite for reliability. Write clean, tested code that solves real business problems.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umaradnaan123&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
