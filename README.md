@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm adnaan faiz 👋</h1>
+<h1 align="center">Hi, I'm Adnaan Faiz 👋</h1>
 
-<p align="center"><strong>Senior Full Stack Engineer</strong> | Based in kurnool</p>
+<p align="center"><strong>Principal Full Stack Engineer</strong> | Based in kurnool</p>
 
 <p align="center"><em>Building scalable web applications, REST/GraphQL APIs, and cloud-native services.</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnaan2003&label=Profile%20views&color=0e75b6&style=flat" alt="adnaan faiz's visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Adnaan2003&label=Profile%20views&color=0e75b6&style=flat" alt="Adnaan Faiz's visitor count" />
 </p>
 
 ---
@@ -54,11 +54,4 @@ Full stack engineer with 8+ years of experience leading product development. I s
 ## ⚡ Tech Philosophy
 
 Simplicity is a prerequisite for reliability. Write clean, tested code that solves real business problems.
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&width=600&lines=Hi%2C%20I'm%20a%20Developer" alt="Typing SVG" />
-  <p><strong>Building modern web apps</strong></p>
-  <p><em>Welcome to my GitHub profile!</em></p>
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80" style="max-width:100%; border-radius:12px; border: 1px solid rgba(255,255,255,0.1); margin-top:10px;" alt="Banner Decor" />
-</div>
 
