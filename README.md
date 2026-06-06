@@ -12,10 +12,10 @@
 
 <table align="center"><tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnaan2003&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github.com/Adnaan2003/Adnaan2003/api/github-stats/stats?username=Adnaan2003&theme=dark" alt="GitHub Stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan2003&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github.com/Adnaan2003/Adnaan2003/api/github-stats/langs?username=Adnaan2003&theme=dark" alt="Top Languages" />
 </td>
 </tr><tr>
 </tr></table>
