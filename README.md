@@ -1,34 +1,14 @@
-<h1 align="center">Hi, I'm Adnaan Faiz 👋</h1>
+<h1 align="center">Hi, I'm adnaan faiz 👋</h1>
 
-<p align="center"><strong>Principal Full Stack Engineer</strong> | Based in Kurnool</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> | Based in San Francisco, CA</p>
 
-<p align="center"><em>Building scalable web applications, REST/GraphQL APIs, and cloud-native services.</em></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnaan2003&label=Profile%20views&color=0e75b6&style=flat" alt="Adnaan Faiz's visitor count" />
-</p>
+<p align="center"><em>Building production RAG systems and context-aware LLM interfaces.</em></p>
 
 ---
 
-## 📖 About Me
-
-Full stack engineer with 8+ years of experience leading product development. I specialize in React, Node.js, and cloud architecture.
-
-- 🎯 **Goals**: Architecting high-performance systems and developer tooling.
-- 🔍 **Interests**: System design, open-source contribution, and micro-frontends.
-- ⚡ **Open Source**: Core maintainer of several popular NPM utility libraries.
-
 ## 🛠️ Tech Stack & Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adnaan2003&theme=dark&column=7" alt="github trophies" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 
 <table align="center"><tr>
 <td>
@@ -38,26 +18,5 @@ Full stack engineer with 8+ years of experience leading product development. I s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan2003&layout=compact&theme=dark" alt="Top Languages" />
 </td>
 </tr><tr>
-<td>
-  <img src="https://streak-stats.demolab.com?user=Adnaan2003&theme=dark" alt="Streak Stats" />
-</td>
-<td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnaan2003&theme=dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</td>
 </tr></table>
-
-## 🏆 Achievements & Certifications
-
-- **AWS Solutions Architect** – Certified in design and implementation of highly available systems.
-- **Tech Speaker** – Presented at JSConf on React Server Components performance.
-
-## ⚡ Tech Philosophy
-
-Simplicity is a prerequisite for reliability. Write clean, tested code that solves real business problems.
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umaradnaan123&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
 
