@@ -2,13 +2,13 @@
 
 <p align="center"><strong>Senior Full Stack Engineer</strong> | Based in San Francisco, CA</p>
 
-<p align="center"><em>Building production RAG systems and context-aware LLM interfaces.</em></p>
+<p align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnaanaddu1929@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://janedoe.dev) 
+
+</p>
 
 ---
-
-## 🛠️ Tech Stack & Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 
 <table align="center"><tr>
 <td>
